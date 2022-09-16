@@ -57,7 +57,7 @@ nav.navbar-transparent {
 }
 
 .btn-roxo {
-    background: #7c2578;
+    background: #7c25f8;
 }
 
 .btn-roxo:hover {
@@ -72,6 +72,10 @@ nav.navbar-transparent {
 .btn-branco:hover {
     background-color: white;
     color: black;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 8%;
 }
 
 /* Estrutura de conteúdos 
